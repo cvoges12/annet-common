@@ -9,7 +9,7 @@
     ./networking.nix
     ./nix.nix
     ./nixpkgs.nix
-    ./powerManagment.nix
+    ./powerManagement.nix
     ./programs.nix
     ./security.nix
     ./services.nix
