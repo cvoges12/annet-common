@@ -2,10 +2,10 @@
 
 {
   system = {
-    stateVersion = "18.09";
+    stateVersion = "19.03";
     autoUpgrade = {
       enable = true;
-      channel = "https://nixos.org/channels/nixos-18.09/";
+      channel = "https://nixos.org/channels/nixos-19.03/";
     };
   };
 }
