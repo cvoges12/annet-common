@@ -1,6 +1,6 @@
-#{ config, pkgs ? (import <nixpkgs> {}), ... }:
+{ ... }:
 
-#{ 
+{ 
   imports = [
     ./boot.nix
     ./environment.nix
@@ -16,4 +16,4 @@
     ./system.nix
     ./users.nix
   ];
-#}
+}
